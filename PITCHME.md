@@ -2,7 +2,9 @@
 
 ---
 
+@snap[north span-100]
 ## Good Code | Bad Code
+@snapend
 
 @snap[west span-50]
 - Stable
