@@ -7,17 +7,21 @@
 @snapend
 
 @snap[west span-50]
+@ul
 - Stable
 - Flexible
 - Easy to maintain
+@ulend
 @snapend
 
 @snap[east span-50]
+@ul
 - Rigid
 - Fragile
 - Inflexible
 - Over complicated
 - Intransparent
+@ulend
 @snapend
 
 ---?color=#E58537
