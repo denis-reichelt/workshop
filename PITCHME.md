@@ -2,18 +2,20 @@
 
 ---
 
-## Good Code / Bad Code
-
-
----
-@title[Customize Slide Layout]
+## Good Code | Bad Code
 
 @snap[west span-50]
-## Customize Slide Content Layout
+- Stable
+- Flexible
+- Easy to maintain
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+- Rigid
+- Fragile
+- Inflexible
+- Over complicated
+- Intransparent
 @snapend
 
 ---?color=#E58537
